@@ -1,4 +1,4 @@
-# Aspire-Project-Recap
+# Aspire Project Recap
 This repository highlights my work developing an application for Aspire Insurance Solutions, designed to streamline and automate time-consuming manual processes. 
 
 ## 🚨 NDA Disclosure
