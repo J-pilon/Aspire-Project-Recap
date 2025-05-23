@@ -7,6 +7,8 @@ This repository highlights my work developing an application for Aspire Insuranc
 
 ---
 
+![Aspire case study](IMG_Case-study-page_Hero_Macbook.png)
+
 ## Lead Engineer – Aspire Application
 
 As the lead engineer on the Aspire project, a Rails-based platform developed for a U.S. insurance company, I spearheaded the automation of agent registration processes with carriers. This initiative eliminated approximately 90% of repetitive administrative tasks, enabling staff to concentrate on higher-value activities.
